@@ -10,7 +10,7 @@
 
 ## 3. Dados:
 
-- O conjunto de dados disponibilizado na plataforma do Kaggle.
+- O conjunto de dados foi disponibilizado pela plataforma Kaggle.
 - Link de acesso: https://www.kaggle.com/harlfoxem/housesalesprediction
 - Contém informações sobre imóveis vendidos entre maio de 2014 e 2015.
 - Os atributos da base de dados são descritos na tabela abaixo.

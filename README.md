@@ -57,8 +57,9 @@ O desafio é organizar e analisar os dados e fornecer uma seleção de imóveis 
  
  ## 6. Pressupostos:
 
+Algumas suposições foram definidas previamente pelo time de negócio:
 - Não há interesse na compra de imóveis com condições ruins e péssimas.
-- Não há interesse na compra de imóveis construídos até 1955, pois são muito antigos.
+- Não há interesse na compra de imóveis construídos até 1950, pois são muito antigos.
 - Pretende-se comprar apenas os imóveis com preço abaixo da média da região.
 - Para a venda dos imóveis com condição regular será adicionado 15% ao preço de compra.
 - Para a venda dos imóveis com condição boa será adicionado 15% ao preço de compra.
@@ -66,6 +67,7 @@ O desafio é organizar e analisar os dados e fornecer uma seleção de imóveis 
 
  ## 7. Outras suposições:
 - Deverá ser indicado se os imóveis são reformados ou não.
+- Deverá ser indicado a estação do ano na qual os imóveis foram postos a venda,
 - Os imóveis deverão ser classificados de acordo com o ano de construção em: 
   - Antigo (ano de construção <= 2000)
   - Novo (ano de construção > 2000)

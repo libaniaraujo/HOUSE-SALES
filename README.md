@@ -57,7 +57,8 @@ O desafio é organizar e analisar os dados e fornecer uma seleção de imóveis 
  
  ## 6. Pressupostos:
 
-Algumas suposições foram definidas previamente pelo time de negócio:
+<b>Algumas suposições foram definidas previamente pelo time de negócio:</b>
+
 - Não há interesse na compra de imóveis com condições ruins e péssimas.
 - Não há interesse na compra de imóveis construídos até 1950, pois são muito antigos.
 - Pretende-se comprar apenas os imóveis com preço abaixo da média da região.
@@ -86,8 +87,14 @@ Algumas suposições foram definidas previamente pelo time de negócio:
   - Nível 3 (de 1910 a 2550 pés)
   - Nível 4 (acima de 2550 pés)
 
-## 8. Principais resultados
-- 
+## 8. Principais resultados:
+
+<b>Insights a partir da análise dos dados:</b>
+
+- A
+- B
+- C
+  
 
 
 

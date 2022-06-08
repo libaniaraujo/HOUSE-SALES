@@ -22,8 +22,8 @@ O desafio é organizar e analisar os dados e fornecer uma seleção de imóveis 
 - <b>Passo 1:</b> Coletar os dados (Kaggle). 
 - <b>Passo 2:</b> Descrever os dados.
 - <b>Passo 3:</b> Limpar os dados e criar novos atributos (Feature Engineering).
-- <b>Passo 4:</b> Realizar a análise exploratória dos dados.
-- <b>Passo 5:</b> Apresentar os dados em um dashboard no Power BI.
+- <b>Passo 4:</b> Realizar a análise exploratória dos dados e obter a partir disso alguns insights.
+- <b>Passo 5:</b> Apresentar os dados referntes aos imóveis selecionados em um dashboard no Power BI.
 
 ## 5. Dados:
 

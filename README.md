@@ -79,7 +79,7 @@ O desafio é organizar e analisar os dados e fornecer uma seleção de imóveis 
 
 ## 8. Principais resultados:
 
-<b>Insights a partir da análise dos dados:</b>
+<b>Insights obtidos a partir da análise dos dados:</b>
 
 - O número total de imóveis no conjunto de dados é 21435.
 - O preço médio de todos os imóveis do conjunto de dados é $541645.37.

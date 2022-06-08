@@ -85,6 +85,8 @@ O desafio é organizar e analisar os dados e fornecer uma seleção de imóveis 
 - O preço médio de todos os imóveis do conjunto de dados é $541645.37.
 - A casa mais antiga do conjunto de dados foi construida no ano de 1900.
 - A casa mais nova do conjunto de dados foi construida no ano de 2015.
+- O preço dos imóveis está diretamente correlacionado com o tamanho do imóvel, o número de quartos e o número de banheiros.
+- Sugere-se que o preço está pouco correlacionado com o tamanho do terreno no qual o imóvel está localizado e ano no qual foi construído.
 - O preço médio dos imóveis cresce com a classificação do design da construção, assim como com a classificação da vista.
 - Não há muita divergência no preço médio dos imóveis por mês de venda é muito semelhante, assim como também para os imóveis vendidos em cada estação do ano.
 - Em geral, os imóveis com cerca de 8 quartos são aqueles que apresentam maior custo médio (embora haja imóveis com mais quartos).

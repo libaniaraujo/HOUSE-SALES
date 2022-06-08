@@ -99,6 +99,28 @@ O desafio é organizar e analisar os dados e fornecer uma seleção de imóveis 
 - Embora estejam disponíveis para a compra 21613 imóveis, apenas 9688 imóveis atingem as exigências do time de negócios.
 - Caso a empresa decida adquirir tais imóveis selecionados seu custo total será $3992138389.0, sua receita total com a aquisição será de $4471090112.1 e seu lucro total a partir das vendas dos imóveis será de $4471090112.1.
 
-## 9. Produto final:
+## 9. Produto final (dashboard):
 
 - Após a organização dos dados e seleção dos imóveis que atingem as exigências solicitadas, será disponibilizado um dashboard no Power BI com as análises realizadas que poderá ser apresentado diretamente ao time de negócios ou disponibilizado para o acesso individual, no qual será possível simular a compra imóveis (dentre aqueles selecionados) com determinadas características.
+
+<div align="center">
+<img src = "https://user-images.githubusercontent.com/94937578/172735456-44cfe6cc-bdba-45fc-bbdd-0331ac3f55e2.png" width="800px" />
+</div>
+
+
+<div align="center">
+<img src = "https://user-images.githubusercontent.com/94937578/172735506-a9af1767-b55b-4605-be54-692ec0833f7c.png" width="800px" />
+</div>
+
+
+<div align="center">
+<img src = "https://user-images.githubusercontent.com/94937578/172736107-b8dc6fe7-00c6-4f09-92f8-3e1d716d032b.png" width="800px" />
+</div>
+
+
+<div align="center">
+<img src = "https://user-images.githubusercontent.com/94937578/172735616-47f788be-2b70-4da9-b1a7-9199b54f9594.png" width="800px" />
+</div>
+
+
+

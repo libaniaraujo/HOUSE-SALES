@@ -23,7 +23,7 @@ O desafio é organizar e analisar os dados e fornecer uma seleção de imóveis 
 - <b>Passo 2:</b> Descrever os dados.
 - <b>Passo 3:</b> Limpar os dados e criar novos atributos (Feature Engineering).
 - <b>Passo 4:</b> Realizar a análise exploratória dos dados e obter a partir disso alguns insights.
-- <b>Passo 5:</b> Apresentar os dados referntes aos imóveis selecionados em um dashboard no Power BI.
+- <b>Passo 5:</b> Apresentar os dados referentes aos imóveis selecionados em um dashboard no Power BI.
 
 ## 5. Dados:
 
@@ -76,26 +76,27 @@ O desafio é organizar e analisar os dados e fornecer uma seleção de imóveis 
   - Studio (<= 1 quarto)
   - Apartamento (de 2 a 4 quartos)
   - Casa (>= 4 quartos)
-- Os imóveis deverão ser classificados de acordo com o nível de preços: 
-  - Nível 1 (de $0 a $321.950) 
-  - Nível 2 (de $321.950 a $450.000)
-  - Nível 3 (de $450.000 a $645.000)
-  - Nível 4 (acima de $645.000)
-- Os imóveis deverão se classificados de acordo com o tamanho: 
-  - Nível 1 (de 0 a 1427 pés)
-  - Nível 2 (de 1427 a 1910 pés)
-  - Nível 3 (de 1910 a 2550 pés)
-  - Nível 4 (acima de 2550 pés)
 
 ## 8. Principais resultados:
 
 <b>Insights a partir da análise dos dados:</b>
 
-- A
-- B
-- C
-  
+- O número total de imóveis no conjunto de dados é: 21435.
+- O preço médio de todos os imóveis do conjunto de dados é $541645.37.
+- A casa mais antiga do conjunto de dados foi construida no ano de 1900.
+- A casa mais nova do conjunto de dados foi construida no ano de 2015.
+- O preço médio dos imóveis cresce com a classificação do design da construção, assim como com a classificação da vista.
+- Não há muita divergência no preço médio dos imóveis por mês de venda é muito semelhante, assim como também para os imóveis vendidos em cada estação do ano.
+- Em geral, os imóveis com cerca de 8 quartos são aqueles que apresentam maior custo médio (embora haja imóveis com mais quartos).
+- Em geral, os imóveis com cerca de 7 banheiros são aqueles que apresentam maior custo médio (embora haja imóveis com mais banheiros).
+- Há 13911 imóveis com a condição 'regular', 5645 imóveis com a condição igual a 'boa' e 1879 imóveis com a condição 'excelente'. Apesar da maioria dos imóveis apresentar condição "regular", os imóveis com condição "excelente" possuem maior preço médio.
+- No conjunto de dados há 12446 imóveis de 1 andar, 8370 imóveis de 2 andares e 619 imóveis de 3 andares. Logo, há mais imóveis com 2 andares e são eles que possuem o maior preço médio dentre as três categorias.
+- O número de imóveis novos é 4529, enquanto o número de imóveis antigos é 16906. O preço médio dos imóveis novos é significativamente superior aos dos imóveis antigos.
+- Há 910 imóveis que foram reformados e 20525 imóveis que não foram reformados. O preço médio dos imóveis reformados é maior dos que o preço médio dos imóveis antigos.
+- Há apenas 163 imóveis com vista para o mar, no entanto o preço médio desses imóveis é maior do que aqueles que não tem vista para o mar.
+- Embora estejam disponíveis para a compra 21613 imóveis, apenas 9688 imóveis atingem as exigências do time de negócios.
+- Caso a empresa decida adquirir tais imóveis selecionados seu custo total será $3992138389.0, sua receita total com a aquisição será de $4471090112.1 e seu lucro total a partir das vendas dos imóveis será de $4471090112.1.
 
+## 9. Produto final:
 
-
-
+- Após a organização dos dados e seleção dos imóveis que atingem as exigências solicitadas, será disponibilizado um dashboard no Power BI com as análises realizadas que poderá ser apresentado diretamente ao time de negócios ou disponibilizado para o acesso individual, no qual será possível simular a compra imóveis (dentre aqueles selecionados) com determinadas características.

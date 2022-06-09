@@ -6,7 +6,7 @@
 
 ## 1. Resumo
 
-- <b>Código no Jupyter Notebook</b>
+- [<b>Código no Jupyter Notebook</b>](https://github.com/libaniaraujo/HOUSE-SALES/blob/main/House-Sales.ipynb)
 - <b>Visualização dos dados no Power BI</b>
 
 ## 2. Contexto

@@ -6,8 +6,8 @@
 
 ## 1. Resumo
 
-- <b>Código no Jupyter Notebook</b>
-- <b>Visualização dos dados no Power BI</b>
+- [<b>Código no Jupyter Notebook</b>](https://github.com/libaniaraujo/HOUSE-SALES/blob/main/House-Sales.ipynb)
+- [<b>Dashboard no Power BI</b>](https://app.powerbi.com/view?r=eyJrIjoiZjdhNjY1NWMtM2NmMS00N2RmLWI1NjMtOGQ0NzViZTNhODNkIiwidCI6IjMyYTQ3YWQwLTZkOWItNGMzYy1hNmJlLWVjZmVmOTlkOGU1NCJ9&pageName=ReportSection79f5cde08ca82ffc405b)
 
 ## 2. Contexto
 

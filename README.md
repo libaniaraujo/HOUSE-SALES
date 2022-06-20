@@ -122,5 +122,7 @@ O desafio é organizar e analisar os dados e fornecer uma seleção de imóveis 
 <img src = "https://user-images.githubusercontent.com/94937578/172735616-47f788be-2b70-4da9-b1a7-9199b54f9594.png" width="800px" />
 </div>
 
+## 10. Referências
 
-
+- [<b>Comunidade DS</b>](https://www.comunidadedatascience.com/)
+- [<b>Kaggle</b>](https://www.kaggle.com/harlfoxem/housesalesprediction)
